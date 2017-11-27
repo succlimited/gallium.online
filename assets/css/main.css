@@ -1,10 +1,53 @@
-footer {
-    bottom: 0;
-    position: fixed;
-    width: 100%;
+html {
+    background-color: #2F3635;
+    text-align: center;
+    font-size: 19px;
+    font-family: "Whitney", "Ebrima", "Arial";
+    color: #D1D8D7
+}
+.fa {
+    -webkit-transition-duration: 0.5s; /* Safari */
+    transition-duration: 0.5s;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa:hover {
+    -webkit-transition-duration: 0.3s; /* Safari */
+    transition-duration: 0.3s;
+    padding: 25px;
+}
+.fa-reddit {
+    background: #ff5700;
+  }
+.fa-twitter {
+    background: #55ACEE;
+}
+.fa-github {
+    background: black;
+}
+.fa-soundcloud {
+    background: #f70;
+}
+.fa-steam {
+    background: #252525;
+}
+.fa-key {
+    background:rgb(255, 162, 0);
+}
+a:link {
+    color: #FFFFFF;
+}
+a:visited {
+    color: #D1D8D7;
+    font-weight: bold;
+}
+::-moz-selection { /* Code for Firefox */
+    color: #D1D8D7;
+    background: #2F3635;
 }
 
-.footer {
-    width: 100%;
-    text-align:center;
+::selection {
+    color: #D1D8D7;
+    background: #2F3635;
 }

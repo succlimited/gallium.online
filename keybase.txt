@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/gallium
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gallium.online
+  * I am gallium (https://keybase.io/gallium) on keybase.
+  * I have a public key with fingerprint B871 34E7 C730 0077 D439  F608 1DB4 5259 9748 1415
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c57090f6df550e15b884d977104b27c68f8edc905db2337cd77f0dbbb5e2f1c20a",
+      "fingerprint": "b87134e7c7300077d439f6081db4525997481415",
+      "host": "keybase.io",
+      "key_id": "1db4525997481415",
+      "kid": "010189be08023f0fbce29e7833a57abb1be915023d12ca5867b7b47c702d53e04c680a",
+      "uid": "3c73d7c6b00693ee9c1957ab4d80cf19",
+      "username": "gallium"
+    },
+    "service": {
+      "hostname": "gallium.online",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1511755717,
+  "expire_in": 157680000,
+  "prev": "f9fb654ca40ee19b436b3771dae1ace27fb88d5de7b6fba610823ad43459adca",
+  "seqno": 57,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJrTBRXFF7QVYrVqpUUrNh2BBOe3nntzCxNaKkPhAZBxVLYss6duQOT
+hdlld6ElFGuNQgxBiAUqGApWiVRtI0Fot1DjWt6ma6DBviKShYgSSgwF2wRSepfU
+H016/9zcc77vO9855/asX6UL9Au9cfDdTxO3BPndcdcX6jJfruotIaBVLiaMJYQF
+rVwoT0YOp9miyoSRACQFJJYDAlAMssKyAJEs5HlGFjiOBAykOMnAKzySJQGwMqRo
+mpNkjlOADCFkEaWQEgVEIppQVC0H2W12VXNiWchzJM0gTuJoAADHyQwtKAbAkzJk
+WIoVBI7hSYZkMTHX6vAxsDkoOlCsasUx/DCv2Psf/DPfgOQFiAAPKFoBCpQQJSCO
+p2mR5UQISYgEksU5maQkkeUNHOQgg/0ASmZpBBjc1orvwhU5GhuVcasQAINAIyRI
+pODTYWQeSAop+IAOZNfEfITROWJenlqYT5RGEzhYpErIN1dfI/8FxFq1PFVDmGyz
+W51WyZqHc7lOp81h9HGdxTYf+H0Ezf/KmKGqyXiQmFGE7A7VqhFGEiMlp+rTJVmS
+5FiWI7loAn1gU+3IrPoQLIebwcdXBxVhSUVQoIFlJJEBCJECZGgDpPFCZRGRIp4U
+p+Ady6yMOGhQoGggAU/RIl4SwwqiLPnm4kAFmpUwsriUU8zBmg41RxOdhXZElN52
+m1br/AJ1a/T+vh+mC3xu47N/F1u7UXcua36uwXNlbO+ZkImx3pnh4eWWLT3elLDZ
+snpjqPvehoHEXTdyWy5NfTgwwrdbG657p/RLUelkWFvfJVfYCxbid9NRXXL3WPPi
+0/JOael0m1CV3G719uozWg5FPlneFFt3b91ojxb8V0LulH35ptT1U0yxw6hGDLQt
+NLmqIw4yXPn9gJHpJs/D/Mkze9y/ji+O7zx7/G8+4Oix1tTS6XX6w0kBtr7PznZM
+xB1+fX8m1T47WXC7f0d60tVBpfrFoLUfV6ZcjBmYNz7/NCqYEQfjDVWJCdcquzfX
+TF8/MPbopSVQa9rjuhNuCvq5/+s3U9wfPWzXQkuSTwQnrE8OqO69vHnoasdNqfXI
+45i1V9as2nF3IW2NoXlXY0v9ychNP+501UVd7C7XKsQhkznwVsB5b7HlZI/wbdqx
+6PMFNnJw62u39scfeWdfTUXW567aIYPn+8nRC6lZMO6c/MS7TUnaPnUqY9+J3Adf
+zNpcke0h7/2WFi69kZrpZWYqTu0uyh5PqJu11zcu+JcVrn7ry+khiz63rrl7riPm
+j77K2eOjxY89cPITc0Pv6ZBD39hq/ky+JulnJrpK39ZKtpVdvpBYsGGCFT11e1PZ
+VyO3qt958h91RYws9vdY4uNe+QUFdGTPf6Up0lj6sD88MNT4Q1PQ/Y67c6bWyk7K
+kul+0Lk9rzE8wzGV/Q/SPMTW
+=sZMw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gallium
+
+==================================================================
