@@ -1,0 +1,34 @@
+html {
+    background: #0f0c29;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+    min-height: 100%;
+    text-align: center;
+    font-size: 19px;
+    font-family: "Whitney", "Ebrima", "Arial";
+    color: #D1D8D7
+}
+img {
+    border: 3px solid white;
+    border-radius: 50%;
+}
+div.paradox {
+    top: 80px;
+    right: 200px;
+}
+a:link {
+    color: #FFFFFF;
+}
+a:visited {
+    color: #D1D8D7;
+    font-weight: bold;
+}
+::-moz-selection { /* Code for Firefox */
+    color: #D1D8D7;
+    background: #2F3635;
+}
+
+::selection {
+    color: #D1D8D7;
+    background: #2F3635;
+}
